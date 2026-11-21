@@ -1,0 +1,12 @@
+{
+  "name": "fares-whatsapp-ai-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ديمو مساعد ذكاء اصطناعي لخدمة عملاء المتاجر المصرية على واتساب — شغال محلياً بدون مفاتيح API مع توصيلة OpenRouter اختيارية",
+  "scripts": {
+    "test": "node test-engine.js"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^25.18.1"
+  }
+}
